@@ -1,0 +1,10 @@
+{
+  "sources": {
+    "fping": {
+      "path": "."
+    },
+    "yum": {
+      "locked_version": "2.4.0"
+    }
+  }
+}
