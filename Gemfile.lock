@@ -68,7 +68,7 @@ GEM
       httparty
       net-ssh
       ohai
-    ffi (1.9.2)
+    ffi (1.9.3)
     foodcritic (3.0.3)
       erubis
       gherkin (~> 2.11.7)
