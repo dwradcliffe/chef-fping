@@ -3,8 +3,14 @@
     "fping": {
       "path": "."
     },
+    "yum-repoforge": {
+      "locked_version": "0.2.0"
+    },
     "yum": {
-      "locked_version": "2.4.0"
+      "locked_version": "3.2.0"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.6"
     }
   }
 }
