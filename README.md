@@ -1,5 +1,7 @@
 # chef-fping
 
+[![Build Status](https://travis-ci.org/dwradcliffe/chef-fping.png?branch=master)](https://travis-ci.org/dwradcliffe/chef-fping)
+
 ## Description
 
 Installs [fping](http://fping.sourceforge.net/), a program to ping hosts in parallel.
