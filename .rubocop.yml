@@ -1,6 +1,7 @@
 AllCops:
-  Excludes:
-    - vendor/**
+  Exclude:
+    - vendor/**/*
+    - metadata.rb
 
 Encoding:
   Enabled: false
