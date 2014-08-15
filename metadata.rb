@@ -11,5 +11,10 @@ recipe 'fping', 'Installs fping utility'
 
 depends 'yum-repoforge'
 
-supports 'redhat'
+supports 'amazon'
 supports 'centos'
+supports 'debian'
+supports 'fedora'
+supports 'redhat'
+supports 'scientific'
+supports 'ubuntu'

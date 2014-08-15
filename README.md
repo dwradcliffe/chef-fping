@@ -11,10 +11,15 @@ Installs [fping](http://fping.sourceforge.net/), a program to ping hosts in para
 
 ### Supported Platforms
 
-The following platforms are supported by this cookbook, meaning that the recipes run on these platforms without error:
+The following platforms are supported by this cookbook, meaning that the recipes should run on these platforms without error:
 
-* RedHat
+* Amazon
 * CentOS
+* Debian
+* Fedora
+* RedHat
+* Scientific
+* Ubuntu
 
 ## Recipes
 
